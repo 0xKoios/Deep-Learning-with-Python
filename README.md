@@ -1,1 +1,3 @@
-# Deep-Learning-with-Python
+# Deep Learning with Python
+
+บันทึกการอ่านหนังสือ **Deep Learning with Python**
